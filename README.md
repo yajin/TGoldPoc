@@ -23,7 +23,7 @@ proposal_id: 2207
 [*] Before the attack - balance: 0
 [*] Lunch the attack
 [*] After the attack - balance: 2000000
-[*] Pwned!
+[*] Owned!
 ```
 
 If you have any question please contact us contact@blocksec.com.
