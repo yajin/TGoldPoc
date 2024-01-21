@@ -3,7 +3,7 @@
 This repo contains the PoC of the [public transfer vulnerability in the Tether Gold contract](https://blocksec.com/blog/public-transfer-vulnerability-of-the-tether-gold-smart-contract).
 
 
-To use this PoC, sign up in [Phalcon Fork](https://blocksec.com/phalcon/). Then add the access key to the PoC.
+To use this PoC, sign up in [Phalcon Fork](https://blocksec.com/phalcon/fork). Then add the access key to the PoC.
 
 
 This PoC requires the web3.py, please install it first to use the PoC.
